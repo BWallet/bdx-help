@@ -11,4 +11,4 @@
 贡献
 ------------
 
-项目放在 `GitHub <https://github.com/BWallet/bwallet-user-zh>`_ 欢迎查看!
+项目放在 `GitHub <https://github.com/BWallet/bdx-help>`_ 欢迎查看!
